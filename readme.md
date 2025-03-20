@@ -267,3 +267,7 @@ Response 400:
     ]
 }
 ```
+
+#### For testing
+For testing with jest please run the following command:
+npm run test
